@@ -1,0 +1,13 @@
+{
+  "name": "support-ticket-api",
+  "version": "1.0.0",
+  "description": "Support tickets management API",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Wagner Souto",
+  "license": "ISC"
+}
