@@ -1,1 +1,31 @@
-{"tickets":[{"id":"a5c2b404-1730-4e0c-96aa-30cea0d97c5d","equipment":"Teclado","description":"Derramou café","user_name":"John Doe","status":"open","created_at":"2025-01-14T17:43:47.017Z","updated_at":"2025-01-14T17:43:47.017Z"},{"id":"9865175e-fad6-4717-8cbf-317db7209544","equipment":"Computador","description":"Não liga","user_name":"Jane Doe","status":"open","created_at":"2025-01-14T17:57:38.592Z","updated_at":"2025-01-14T17:57:38.592Z"}]}
+{
+  "tickets": [
+    {
+      "id": "a5c2b404-1730-4e0c-96aa-30cea0d97c5d",
+      "equipment": "Teclado",
+      "description": "Derramou café",
+      "user_name": "John Doe",
+      "status": "closed",
+      "created_at": "2025-01-14T17:43:47.017Z",
+      "updated_at": "2025-01-14T17:43:47.017Z"
+    },
+    {
+      "id": "9865175e-fad6-4717-8cbf-317db7209544",
+      "equipment": "Computador",
+      "description": "Não liga",
+      "user_name": "Jane Doe",
+      "status": "open",
+      "created_at": "2025-01-14T17:57:38.592Z",
+      "updated_at": "2025-01-14T17:57:38.592Z"
+    },
+    {
+      "id": "3f95671a-1970-43f2-a37a-2c072ea6c642",
+      "equipment": "Mouse",
+      "description": "Não responde",
+      "user_name": "Jimmy Joe",
+      "status": "open",
+      "created_at": "2025-01-30T18:32:12.849Z",
+      "updated_at": "2025-01-30T18:32:12.849Z"
+    }
+  ]
+}
